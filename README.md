@@ -86,7 +86,7 @@ GitHub: https://github.com/hmarkestrad/Book-Search-Engine.git
 Deployed: https://hmarkestrad.github.io/Book-Search-Engine/  
 
 ## Screen Shot
-![React-Portfolio-Estrada](https://github.com/hmarkestrad/React-Portfolio-Estrada/blob/7355673a46a90c30b24dfc9eed71ee066dba4552/assets/images/Screenshot.jpg)
+![Book-Search-Engine](https://github.com/hmarkestrad/Book-Search-Engine/blob/59124dd9bb52b6ec2a6e778031dafe1be3172041/assets/images/21-mern-homework-demo-01.jpg)
   
 ## Questions
 GitHub: [hmarkestrad](https://github.com/hmarkestrad)<br>
