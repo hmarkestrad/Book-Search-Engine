@@ -39,9 +39,9 @@ GitHub: https://github.com/hmarkestrad/Book-Search-Engine.git
 Deployed: https://hmarkestrad.github.io/Book-Search-Engine/  
 
 ## Screen Shot
-![Book-Search-Engine](https://github.com/hmarkestrad/Book-Search-Engine/blob/59124dd9bb52b6ec2a6e778031dafe1be3172041/assets/images/21-mern-homework-demo-01.jpg)
+![Book-Search-Engine](screenshot.png)
   
 ## Questions
 GitHub: [hmarkestrad](https://github.com/hmarkestrad)<br>
 Contact me with any questions: h.mark.estrada@gmail.com<br>
-Copyright 2022 © H. Mark Estrada. AllRights Reserved.<br>
+Copyright 2022 © H. Mark Estrada. All Rights Reserved.<br>
