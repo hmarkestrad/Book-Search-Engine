@@ -1,4 +1,4 @@
-Hold
-.gitignor4e
+.gitignore
 node_modules
-gitattributes
+.gitattributes
+.env
