@@ -28,10 +28,10 @@ H. Mark Estrada
 This application is covered by the MIT license. 
   
 ## Technologies
-![badge](https://img.shields.io/badge/Javascript-blue)
-![badge](https://img.shields.io/badge/jQuery-blue)
-![badge](https://img.shields.io/badge/-node.js-blue)
-![badge](https://img.shields.io/badge/-heroku-blue)</br>
+![badge](https://img.shields.io/badge/Javascript-orange)
+![badge](https://img.shields.io/badge/jQuery-orange)
+![badge](https://img.shields.io/badge/-node.js-orange)
+![badge](https://img.shields.io/badge/-heroku-orange)</br>
 ![badge](https://img.shields.io/badge/-json-blue)
 ![badge](https://img.shields.io/badge/-html5-blue)
 ![badge](https://img.shields.io/badge/-css-blue)
@@ -42,7 +42,7 @@ Deployed: https://hmarkestrad.github.io/Book-Search-Engine/
 
 ## Screen Shot
 
-![Budget-Tracker - ESTRADA](screenshot.png)
+![Book-Search-Engine-Estrada](screenshot.png)
   
 ## Questions
 GitHub: [hmarkestrad](https://github.com/hmarkestrad)<br>
