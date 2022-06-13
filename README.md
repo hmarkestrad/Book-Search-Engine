@@ -37,12 +37,12 @@ This application is covered by the MIT license.
 ![badge](https://img.shields.io/badge/-css-blue)
   
 ## Deployed
-GitHub: https://github.com/hmarkestrad/Book-Search-Engine.git
+GitHub: https://github.com/hmarkestrad/Book-Search-Engine.git<br>
 Deployed: https://hmarkestrad.github.io/Book-Search-Engine/
 
 ## Screen Shot
 
-![Budget-Tracker - ESTRADA](assets/images/21-mern-homework-demo-01.jpg)
+![Budget-Tracker - ESTRADA](screenshot.png)
   
 ## Questions
 GitHub: [hmarkestrad](https://github.com/hmarkestrad)<br>
